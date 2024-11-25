@@ -1,3 +1,3 @@
-cd jewealtest
-npm i
-npm run dev
+- cd billtest
+- npm i
+- npm run dev
